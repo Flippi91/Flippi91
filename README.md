@@ -32,7 +32,7 @@
 <br/>
 <br/>
 
-## Languages that Interest me!
+## 🍕Languages that Interest me!
 <p align="left"> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
@@ -45,7 +45,7 @@
 <br/>
 <br/>
 
-## Design Tools i use!
+## 🖌Design Tools i use!
 <p align="left"> 
   <a href="https://www.adobe.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-acrobat--v1.png"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/> </a>
