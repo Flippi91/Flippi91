@@ -48,13 +48,13 @@
 ## 🖌Design Tools i use!
 <p align="left"> 
   <a href="https://www.adobe.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-acrobat--v1.png"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/> </a>
-  <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-indesign--v1.png"/> </a>
-  <a href="https://www.apple.com/chde/swift/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/> </a>
-  <a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.png"/> </a>
-  <a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png"/> </a>
-  <a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-bridge--v1.png"/> </a>
+  <a href="https://www.adobe.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/> </a>
+  <a style="padding-right:8px;" href="https://www.adobe.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-indesign--v1.png"/> </a>
+  <a href="https://www.adobe.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/> </a>
+  <a href="https://www.adobe.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/> </a>
+  <a href="https://www.adobe.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.png"/> </a>
+  <a href="https://www.adobe.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png"/> </a>
+  <a href="https://www.adobe.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-bridge--v1.png"/> </a>
 </p>
 
 
