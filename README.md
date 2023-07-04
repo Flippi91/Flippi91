@@ -69,7 +69,7 @@
 
 
 <a href="https://github.com/Flippi91/github-readme-activity-graph"><img alt="Gianni's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Flippi91&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<a [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&bg_color=222222&color=02ff00&line=00e8ff&point=00e8ff&custom_title=My%20Latest%20Activity&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) </a>
+<a [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&bg_color=000000&color=02ff00&line=00e8ff&point=00e8ff&custom_title=My%20Latest%20Activity&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) </a>
 
 <br/>
 
