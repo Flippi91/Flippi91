@@ -6,7 +6,7 @@
 
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently working on **Blockchain Web app**
+- 🔭 I’m currently working on **Blachelors project**
 - 🌱 I’m currently learning **EVERTHING.**
 - ⚡ Fun fact **I play games very often.**
 - 📫 How to reach me **g.delphis@outlook.com**
